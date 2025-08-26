@@ -3,7 +3,7 @@
 --cor-principal: #62076eef ;
 --cor-secundaria: #b180bdda;
 --cor-destaque: #ffffff;
---cor-texto: #000000;
+--cor-texto: #00000034;
 }
 body {
 background-color: var(--cor-fundo);
